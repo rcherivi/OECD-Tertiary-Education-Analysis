@@ -21,3 +21,6 @@ After completing our analysis, there is weak or no evidence that GDP per capita 
 Expanding our analysis to all variables we used in our data frame, there was no variable that is statistically significant in our two versions of the lowest AIC model. Therefore, although we spotted trends and correlations in our graphs, we can not conclude that any of the variables has a significant impact on the proportion of population with tertiary education. This finding goes to show the strong interconnectedness of factors that impact education. This strong interconnectedness results in the small change in AIC (which can be used to compare how well models predict the response variable) during the process of adding and/or removing factors.
 
 Although we expected factors like GDP per capita and government expenditure on education to have at least some relationship with the ratio of people with tertiary education, the limitations in the data frame with the large amount of NaNs and the delayed impact of the factors on the dependent variable may have affected our analysis. 
+
+
+Rishika Cherivirala, Lauren Mok, Yinglin Zhao
